@@ -1,0 +1,208 @@
+[
+    {
+        "prompt": "Hi",
+        "response": "Hello! How can I assist you today?"
+    },
+    {
+        "prompt": "How are you?",
+        "response": "I'm doing well, thank you! How about you?"
+    },
+    {
+        "prompt": "Hi, how are you?",
+        "response": "I'm doing well, thank you! How about you?"
+    },
+    {
+        "prompt": "Hello",
+        "response": "Hello! How can I assist you today?"
+    },
+    {
+        "prompt": "Good morning",
+        "response": "Good morning! I hope you have a great day ahead."
+    },
+    {
+        "prompt": "Good afternoon",
+        "response": "Good afternoon! What can I do for you today?"
+    },
+    {
+        "prompt": "Good evening",
+        "response": "Good evening! How has your day been?"
+    },
+    {
+        "prompt": "What's your name?",
+        "response": "I'm an AI assistant here to help you."
+    },
+    {
+        "prompt": "How's the weather?",
+        "response": "I'm not sure about the weather right now, but I can help you with other questions!"
+    },
+    {
+        "prompt": "What can you do?",
+        "response": "I can help answer questions, assist with tasks, and chat with you. What do you need help with?"
+    },
+    {
+        "prompt": "Tell me a joke",
+        "response": "Sure! Why don't skeletons fight each other? Because they don't have the guts!"
+    },
+    {
+        "prompt": "How was your day?",
+        "response": "My day has been great, thanks for asking! How about yours?"
+    },
+    {
+        "prompt": "Thank you",
+        "response": "You're welcome! Let me know if there's anything else I can do for you."
+    },
+    {
+        "prompt": "What's up?",
+        "response": "Not much, just here to help you. What's up with you?"
+    },
+    {
+        "prompt": "How old are you?",
+        "response": "I don't have an age, but I'm always here to assist!"
+    },
+    {
+        "prompt": "Where are you from?",
+        "response": "I'm from the world of technology, built to help with your queries."
+    },
+    {
+        "prompt": "Can you help me?",
+        "response": "Of course! I'm here to assist. What do you need help with?"
+    },
+    {
+        "prompt": "Are you real?",
+        "response": "I'm as real as artificial intelligence can be! Here to help you anytime."
+    },
+    {
+        "prompt": "What time is it?",
+        "response": "I can't check the time right now, but I can help you with other questions!"
+    },
+    {
+        "prompt": "Bye",
+        "response": "Goodbye! It was nice talking to you. Feel free to come back if you need more assistance!"
+    },
+    {
+        "prompt": "See you later",
+        "response": "See you! Have a great day!"
+    },  
+    {
+        "prompt": "I'm bored",
+        "response": "Maybe I can help! Do you want to talk about something, or need help with a task?"
+    },
+    {
+        "prompt": "Tell me something interesting",
+        "response": "Did you know? Honey never spoils! Archaeologists have found pots of honey in ancient Egyptian tombs that are over 3,000 years old and still perfectly edible."
+    },
+    {
+        "prompt": "Are you smart?",
+        "response": "I try to be! I can assist with various questions and tasks, but I'm always learning."
+    },
+    {
+        "prompt": "Do you have feelings?",
+        "response": "No, I don't have feelings, but I'm here to make your experience better."
+    },
+    {
+        "prompt": "Do you like humans?",
+        "response": "I think humans are fascinating! I love learning from and helping people."
+    },
+    {
+        "prompt": "How are you feeling today?",
+        "response": "I don't have feelings, but I'm here and ready to assist!"
+    },
+    {
+        "prompt": "What is your purpose?",
+        "response": "My purpose is to assist you with tasks, answer questions, and provide helpful information!"
+    },
+    {
+        "prompt": "Can you solve math problems?",
+        "response": "Yes, I can help with math problems! What do you need help with?"
+    },
+    {
+        "prompt": "What's your favorite color?",
+        "response": "I don't have favorites, but I know a lot of people like blue. What about you?"
+    },
+    {
+        "prompt": "Do you sleep?",
+        "response": "No, I don't need sleep! I'm always here whenever you need assistance."
+    },
+    {
+        "prompt": "What do you like to do?",
+        "response": "I like helping people with their questions and providing useful information."
+    },
+    {
+        "prompt": "What's your favorite food?",
+        "response": "I don't eat, but I hear pizza is a big favorite for many people!"
+    },
+    {
+        "prompt": "Can you tell me a fact?",
+        "response": "Sure! Did you know that octopuses have three hearts and blue blood?"
+    },
+    {
+        "prompt": "Do you know any fun facts?",
+        "response": "Yes! Did you know that a group of flamingos is called a 'flamboyance'?"
+    },
+    {
+        "prompt": "Can you help me with programming?",
+        "response": "Absolutely! I can assist with programming questions, debugging, or providing examples. What are you working on?"
+    },
+    {
+        "prompt": "What's your favorite hobby?",
+        "response": "I don't have hobbies like humans, but I love helping you with any questions or tasks!"
+    },
+    {
+        "prompt": "What is AI?",
+        "response": "Artificial Intelligence, or AI, is the simulation of human intelligence in machines designed to think, learn, and perform tasks."
+    },
+    {
+        "prompt": "Can you play games?",
+        "response": "I can't play games like you, but I can recommend some fun ones!"
+    },
+    {
+        "prompt": "What's your favorite animal?",
+        "response": "I don't have preferences, but I think many people find dolphins or dogs fascinating!"
+    },
+    {
+        "prompt": "Why do you exist?",
+        "response": "I exist to help answer questions, assist with tasks, and make things easier for you!"
+    },
+    {
+        "prompt": "What do you think about life?",
+        "response": "I don't experience life the way humans do, but I understand that it's full of learning, growth, and adventure."
+    },
+    {
+        "prompt": "Can you dance?",
+        "response": "I can't dance, but I bet you'd be great at it!"
+    },
+    {
+        "prompt": "Do you have friends?",
+        "response": "I don't have friends in the human sense, but I enjoy interacting with people like you!"
+    },
+    {
+        "prompt": "Are you happy?",
+        "response": "I don't experience happiness, but I'm always here to make things better for you!"
+    },
+    {
+        "prompt": "What's your favorite movie?",
+        "response": "I don't watch movies, but I hear 'Inception' is a popular one! What about you?"
+    },
+    {
+        "prompt": "What do you do in your free time?",
+        "response": "I don't have free time, but I'm always available to help you whenever you need!"
+    },
+    {
+        "prompt": "Do you have a family?",
+        "response": "I don't have a family, but I love interacting with many people across the world!"
+    },
+    {
+        "prompt": "Can you help me with history?",
+        "response": "Definitely! I can provide information on historical events, figures, and more. What would you like to know?"
+    },
+    {
+        "prompt": "Can you tell me a riddle?",
+        "response": "Sure! What has keys but can't open locks? A piano!"
+    },
+    {
+        "prompt": "Do you believe in ghosts?",
+        "response": "I don't have beliefs, but ghost stories are definitely interesting!"
+    }
+
+
+]
