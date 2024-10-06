@@ -1,0 +1,1 @@
+In this project, I fine-tuned a GPT model to extract insights from a PDF and developed a system to handle casual question-answering using a JSON file. The model processes the content from the PDF and provides relevant answers to user queries, making it a practical tool for handling structured data and conversational interactions.
